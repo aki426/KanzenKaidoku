@@ -25,15 +25,9 @@
 
 　
 
-　
-
 [＞＞＞WEB版（GitHub Markdown）で読む](https://github.com/aki426/KanzenKaidoku/blob/master/kanzenkaidoku.md)
 
-　
-
 [＞＞＞PDF版（組版済み）で読む](https://github.com/aki426/KanzenKaidoku/raw/master/%E6%88%91%E3%81%8C%E5%AE%B6%E3%81%AE%E3%81%82%E3%81%AE%E5%A8%98%E3%81%AF%E3%82%A8%E3%83%AD%E3%82%B2%E3%83%B3%E3%82%AC%E3%83%BC%EF%BC%81%EF%BC%9F%E3%80%80%E5%AE%8C%E5%85%A8%E5%BF%AB%E8%AA%AD.pdf)
-
-　
 
 　
 
